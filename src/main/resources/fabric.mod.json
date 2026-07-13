@@ -10,10 +10,15 @@
 	"license": "All Rights Reserved",
 	"icon": "assets/hotbarbumpers/icon.png",
 	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.derekandrews.hotbarbumpers.HotbarBumpersClient"
+		]
+	},
 	"depends": {
 		"fabricloader": ">=0.19.3",
-		"minecraft": "~1.21.1",
-		"java": ">=21",
+		"minecraft": "~26.2",
+		"java": ">=25",
 		"fabric-api": "*"
 	}
 }
