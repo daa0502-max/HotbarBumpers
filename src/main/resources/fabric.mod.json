@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "hotbarbumpers",
+	"version": "${version}",
+	"name": "HotbarBumpers",
+	"description": "A client-side mod that will enhance the Minecraft hotbar.",
+	"authors": [
+		"Derek Andrews"
+	],
+	"license": "All Rights Reserved",
+	"icon": "assets/hotbarbumpers/icon.png",
+	"environment": "client",
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
