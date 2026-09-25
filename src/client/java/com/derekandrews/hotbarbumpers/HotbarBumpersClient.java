@@ -16,7 +16,7 @@ public final class HotbarBumpersClient implements ClientModInitializer {
 	private static final KeyMapping NEXT_HOTBAR_SLOT = KeyMappingHelper.registerKeyMapping(
 			new KeyMapping(
 					"key.hotbarbumpers.next_hotbar_slot",
-					InputConstants.Type.KEYSYM,
+					InputConstants.Type.KEYBOARD,
 					InputConstants.UNKNOWN.getValue(),
 					KEY_CATEGORY
 			)
@@ -24,7 +24,7 @@ public final class HotbarBumpersClient implements ClientModInitializer {
 	private static final KeyMapping PREVIOUS_HOTBAR_SLOT = KeyMappingHelper.registerKeyMapping(
 			new KeyMapping(
 					"key.hotbarbumpers.previous_hotbar_slot",
-					InputConstants.Type.KEYSYM,
+					InputConstants.Type.KEYBOARD,
 					InputConstants.UNKNOWN.getValue(),
 					KEY_CATEGORY
 			)

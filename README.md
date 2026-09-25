@@ -1,8 +1,8 @@
 # HotbarBumpers
 
-> Lightweight Fabric mod that adds configurable Next Hotbar Slot and Previous Hotbar Slot keybindings for Minecraft Java Edition 26.2.
+> Lightweight Fabric mod that adds configurable Next Hotbar Slot and Previous Hotbar Slot keybindings for Minecraft Java Edition 26.3.
 
-HotbarBumpers is a lightweight, client-side Fabric mod for Minecraft Java Edition 26.2.
+HotbarBumpers is a lightweight, client-side Fabric mod for Minecraft Java Edition 26.3.
 
 It adds two configurable keybindings that let you move to the next or previous hotbar slot without using the mouse wheel. The mod uses Minecraft's native hotbar selection logic, providing behavior that matches vanilla gameplay.
 
@@ -18,7 +18,7 @@ It adds two configurable keybindings that let you move to the next or previous h
 
 ## Requirements
 
-- Minecraft Java Edition 26.2
+- Minecraft Java Edition 26.3
 - Fabric Loader
 - Fabric API
 
@@ -33,7 +33,7 @@ After installing the mod:
 
 ## Installation
 
-1. Install Fabric Loader for Minecraft 26.2.
+1. Install Fabric Loader for Minecraft 26.3.
 2. Install Fabric API.
 3. Download the latest HotbarBumpers release.
 4. Place the JAR file into your Minecraft `mods` folder.
