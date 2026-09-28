@@ -7,7 +7,7 @@
 	"authors": [
 		"Derek Andrews"
 	],
-	"license": "All Rights Reserved",
+	"license": "MIT",
 	"icon": "assets/hotbarbumpers/icon.png",
 	"environment": "client",
 	"entrypoints": {
